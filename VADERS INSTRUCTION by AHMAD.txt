@@ -1,0 +1,77 @@
+Vader Streams Installation Instructions by Ahmad Mujbi:
+ 
+Installation Instruction for Kodi:
+
+* HOME Screen > Add-ons > Settings button 
+
+* > Enable Unknown Sources.
+
+* BACK to HOME screen > Settings button 
+
+* > File Manager 
+
+* > Add Source.
+
+* Enter http://repo.vaders.tv/repo/ in the top box > Enter VADER in the bottom box > OK.
+
+* BACK to HOME screen > Add-Ons > Add-on Browser 
+
+* Install from zip file > VADER > repository.vader-streams.tv/ > repository.vader-streams.tv-x.x.x.zip .
+
+* Wait for Add-on enabled notification.
+
+* Install from repository > Vaders.TV Add-ons > Video add-ons > Vader Streams > Install.
+
+* Wait for Add-on enabled notification.
+
+* Username and Password will need to be entered into the add-on settings.
+
+* Go to EPG Settings/ uncheck PVR Integration. 
+
+* MOST IMPORTANT, ALWAYS UNCHECK PVR INTEGRATION FROM EPG SETTINGS WHEN PROMPTED FOR USERNAME & PASSWORD. EPG SETTINGS>UNCHECK PVR INTEGRATION
+
+* Vader Streams is now installed and ready to use.
+
+* The Add-on can now be opened from HOME screen > Add-Ons > Vader Streams.
+
+Our website: http://vaders.tv
+
+INSTALLATION ON PERFECT PLAYER:
+
+Step 1: Install Perfect Player from the Google Play Store onto your box (optional: Install the Perfect Player Remote onto your phone or tablet to control perfect player)
+
+Step 2: Open Perfect Player on your box , Click the gear icon to open settings , click on General
+
+Step 3: Click where it says Playlist and add the following line into the URL section
+
+http://api.vaders.tv/vget?username=XXXXX&password=XXXXX&format=ts
+
+OBVIOUSLY REPLACE XXXX with your username and your password that I provided to you and then save it.
+
+Step 4: Click where it says EPG and add the following line into the URL section 
+
+http://vaders.tv/p2.xml.gz
+
+*Sometimes the EPG don’t update, to avoid this problem follow the instruction below:
+
+Settings > General  > EPG1 > drop down menu to once a day
+
+
+
+INSTALLATION GUIDE FOR GSE APP ON iPhones AND iPads AND MacBOOK
+
+1.Download GSE PRO IPTV FROM APP STORE
+
+2.On Left Side At The Top Click On The 3 Lines To Open
+
+3.Go To Xtream Codes API And Then Click The + In Top Right Corner
+
+4.Name Playlist What You Want e.g "Vader Streams"
+
+5.Then Enter Server name: http://vaders.tv
+
+6.Enter Your Login Details For Your Vader Streams Account 
+
+7.Then Select Add
+
+8.Click On Force EPG To Update the Electronic Guide.
