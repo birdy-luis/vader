@@ -1,4 +1,6 @@
 Vader Streams Installation Instructions by Ahmad Mujbi:
+
+Our website: http://vaders.tv
  
 Installation Instruction for Kodi:
 
@@ -34,7 +36,7 @@ Installation Instruction for Kodi:
 
 * The Add-on can now be opened from HOME screen > Add-Ons > Vader Streams.
 
-Our website: http://vaders.tv
+
 
 INSTALLATION ON PERFECT PLAYER:
 
@@ -44,13 +46,17 @@ Step 2: Open Perfect Player on your box , Click the gear icon to open settings ,
 
 Step 3: Click where it says Playlist and add the following line into the URL section
 
+
 http://api.vaders.tv/vget?username=XXXXX&password=XXXXX&format=ts
+
 
 OBVIOUSLY REPLACE XXXX with your username and your password that I provided to you and then save it.
 
 Step 4: Click where it says EPG and add the following line into the URL section 
 
+
 http://vaders.tv/p2.xml.gz
+
 
 *Sometimes the EPG don’t update, to avoid this problem follow the instruction below:
 
