@@ -1,6 +1,12 @@
 Vader Streams Installation Instructions by Ahmad Mujbi:
 
-Our website: http://vaders.tv
+Our APK: http://vaders.tv/vaders.apk
+
+
+** Down below you will find instructions for Kodi, Perfect Player & GSE on IPHONE/IPAD/MAC **
+
+** Ask Ahmad Mujbi for instruction for ROKU and to add MAC **
+
  
 Installation Instruction for Kodi:
 
@@ -35,6 +41,10 @@ Installation Instruction for Kodi:
 * Vader Streams is now installed and ready to use.
 
 * The Add-on can now be opened from HOME screen > Add-Ons > Vader Streams.
+
+** IF THE EPG DON'T WORK PLEASE PERFOR A MAJOR RESET: 
+
+>> systems -> addons-> program addons -> tv guide -> settings -> major reset, then restart kodi and wait for the addon guide to populate again. <<
 
 
 
