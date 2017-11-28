@@ -1,14 +1,13 @@
-Vader Streams Installation Instructions by Ahmad Mujbi:
+Vader Streams Installation Instructions:
 
 Our APK: http://vaders.tv/vaders.apk
 
 
 ** Down below you will find instructions for Kodi, Perfect Player & GSE on IPHONE/IPAD/MAC **
 
-** Ask Ahmad Mujbi for instruction for ROKU and to add MAC **
 
  
-Installation Instruction for Kodi:
+>> Installation Instruction for Kodi:
 
 * HOME Screen > Add-ons > Settings button 
 
@@ -48,7 +47,7 @@ Installation Instruction for Kodi:
 
 
 
-INSTALLATION ON PERFECT PLAYER:
+>> INSTALLATION ON PERFECT PLAYER:
 
 Step 1: Install Perfect Player from the Google Play Store onto your box (optional: Install the Perfect Player Remote onto your phone or tablet to control perfect player)
 
@@ -72,9 +71,15 @@ http://vaders.tv/p2.xml.gz
 
 Settings > General  > EPG1 > drop down menu to once a day
 
+** PERFECT PLAYER VOD SETUP ** 
+
+Playlist 2:  http://vaders.tv/get.php?username=XXXXX&password=XXXXX&type=m3u&output=ts
+
+EPG2 : http: //vaders.tv/xmltv.php?username=user&password=pass
 
 
-INSTALLATION GUIDE FOR GSE APP ON iPhones AND iPads AND MacBOOK
+
+>> INSTALLATION GUIDE FOR GSE APP ON iPhones AND iPads AND MacBOOK
 
 1.Download GSE PRO IPTV FROM APP STORE
 
